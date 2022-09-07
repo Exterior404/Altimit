@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/altimit/static/css/main.c7ec3132.css",
+    "main.js": "/altimit/static/js/main.5d3ea458.js",
+    "index.html": "/altimit/index.html",
+    "main.c7ec3132.css.map": "/altimit/static/css/main.c7ec3132.css.map",
+    "main.5d3ea458.js.map": "/altimit/static/js/main.5d3ea458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.5d3ea458.js"
+  ]
+}
