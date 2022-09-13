@@ -5,6 +5,8 @@ import Nav from "./components/Nav";
 import About from "./pages/About";
 import Home from "./pages/Home";
 
+import Xiao2 from "./lern/Xiao/Xiao02";
+
 import "./styles/style.css";
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
                 <Route path="/" element={<Home />} exact/>
                 <Route path="/about" element={<About />} exact/>
             </Routes>
+            <Xiao2 />
         </div>
     );
 }
